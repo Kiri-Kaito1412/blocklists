@@ -1,18 +1,19 @@
 track.tenjin.io
 adservice.google.com
 www.googleadservices.com
+www.microsoft.com
 content-autofill.googleapis.com
 detectportal.firefox.com
 graph.microsoft.com
 sso.passport.yandex.ru
 dzen.ru
 yandex.ru
+ping.archlinux.org
 clients4.google.com
 thepromise-event.standsapp.org
 api-js.mixpanel.com
 p-ring.msedge.net
 authentication.falais.com
-firetvcaptiveportal.com
 www.urban-vpn.com
 api-pro.falais.com
 www.googleapis.com
@@ -57,3 +58,5 @@ edge-consumer-static.azureedge.net
 edge.microsoft.com
 example.org
 pgorelease.nianticlabs.com
+utab.io
+mtalk.google.com
