@@ -60,3 +60,4 @@ example.org
 pgorelease.nianticlabs.com
 utab.io
 mtalk.google.com
+firetvcaptiveportal.com
