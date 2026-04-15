@@ -74,3 +74,5 @@ tracker.files.fm
 tracker.openbittorrent.com
 tracker.tiny-vps.com
 tracker.blacksparrowmedia.net
+opentracker.i2p.rocks
+code2chicken.nl
