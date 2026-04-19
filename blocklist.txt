@@ -112,4 +112,3 @@ nearbysharing-pa.googleapis.com
 eddie4.nl
 open.stealth.si
 exodus.desync.com
-g
